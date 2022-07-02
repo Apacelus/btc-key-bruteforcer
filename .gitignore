@@ -1,2 +1,5 @@
 /.idea/
 /priv_keys.txt
+/venv/
+/bruteforce.log
+/key.txt
