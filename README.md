@@ -5,7 +5,7 @@ characters will take a while to bruteforce. This script has only one thread, whi
 
 ## How to use:
 
-1. Download the [repo](https://github.com/apacelus/partial-priv-btc-key-recovery/archive/refs/heads/main.zip) and unpack
+1. Download the [repo](https://github.com/apacelus/btc-key-bruteforcer/archive/refs/heads/main.zip) and unpack
    it.
 2. Install dependencies with ```python3 -m pip install -r requirements.txt```
    or ```python -m pip install -r requirements.txt```
